@@ -1,7 +1,7 @@
 # Student Performance Prediction
 ## NAME
 
-# ABISHEK K
+ABISHEK K
 
 ## Overview
 This project predicts whether a student will pass or fail using machine learning.
